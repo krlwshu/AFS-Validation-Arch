@@ -1,0 +1,99 @@
+[{
+  "issuerName": "European Union",
+  "members": [
+    "Austria",
+    "Belgium",
+    "Bulgaria",
+    "Croatia",
+    "Cyprus",
+    "Czech Republic",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Netherlands",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden"
+  ],
+  "area": "Schengen Area"
+},
+{
+  "issuerName": "United States",
+  "members": [
+    "United States"
+  ],
+  "area": "North America"
+},
+{
+  "issuerName": "Canada",
+  "members": [
+    "Canada"
+  ],
+  "area": "North America"
+},
+{
+  "issuerName": "United Kingdom",
+  "members": [
+    "United Kingdom"
+  ],
+  "area": "Europe"
+},
+{
+  "issuerName": "Australia",
+  "members": [
+    "Australia"
+  ],
+  "area": "Oceania"
+},
+{
+  "issuerName": "China",
+  "members": [
+    "China"
+  ],
+  "area": "Asia"
+},
+{
+  "issuerName": "India",
+  "members": [
+    "India"
+  ],
+  "area": "Asia"
+},
+{
+  "issuerName": "Russia",
+  "members": [
+    "Russia"
+  ],
+  "area": "Eurasia"
+},
+{
+  "issuerName": "Brazil",
+  "members": [
+    "Brazil"
+  ],
+  "area": "South America"
+},
+{
+  "issuerName": "Japan",
+  "members": [
+    "Japan"
+  ],
+  "area": "Asia"
+},
+{
+  "name": "European Union"
+}]

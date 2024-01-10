@@ -1,0 +1,87 @@
+[{
+  "issuerName": "European Union",
+  "members": [
+    "Austria",
+    "Belgium",
+    "Bulgaria",
+    "Croatia",
+    "Cyprus",
+    "Czech Republic",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Netherlands",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden"
+  ]
+},
+{
+  "issuerName": "United States",
+  "members": [
+    "United States"
+  ]
+},
+{
+  "issuerName": "Canada",
+  "members": [
+    "Canada"
+  ]
+},
+{
+  "issuerName": "United Kingdom",
+  "members": [
+    "United Kingdom"
+  ]
+},
+{
+  "issuerName": "Australia",
+  "members": [
+    "Australia"
+  ]
+},
+{
+  "issuerName": "China",
+  "members": [
+    "China"
+  ]
+},
+{
+  "issuerName": "India",
+  "members": [
+    "India"
+  ]
+},
+{
+  "issuerName": "Russia",
+  "members": [
+    "Russia"
+  ]
+},
+{
+  "issuerName": "Brazil",
+  "members": [
+    "Brazil"
+  ]
+},
+{
+  "issuerName": "Japan",
+  "members": [
+    "Japan"
+  ]
+},
+{}]

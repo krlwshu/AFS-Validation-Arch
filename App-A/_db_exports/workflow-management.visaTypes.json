@@ -1,0 +1,44 @@
+[{
+  "name": "H1 Visa",
+  "code": "H1-2023",
+  "nationalitiesEligible": [
+    "India",
+    "Canada",
+    "United Kingdom",
+    "Australia"
+  ],
+  "purposeOfTravel": [
+    "Employment"
+  ]
+},
+{
+  "name": "ESTA",
+  "code": "ESTA-2023",
+  "nationalitiesEligible": [
+    "United Kingdom",
+    "Japan",
+    "Germany",
+    "Australia"
+  ],
+  "purposeOfTravel": [
+    "Tourism",
+    "Business",
+    "Transit"
+  ]
+},
+{
+  "name": "Schengen Visa",
+  "code": "SCH-2023",
+  "nationalitiesEligible": [
+    "United States",
+    "Brazil",
+    "South Africa",
+    "India"
+  ],
+  "purposeOfTravel": [
+    "Tourism",
+    "Business",
+    "Cultural",
+    "Short-term Study"
+  ]
+}]

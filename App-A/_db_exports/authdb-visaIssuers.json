@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "6590b87dfbec09b32c61d4b2"
+  },
+  "issuerName": "European Union",
+  "members": [
+    "Austria",
+    "Belgium",
+    "Bulgaria",
+    "Croatia",
+    "Cyprus",
+    "Czech Republic",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Netherlands",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden"
+  ],
+  "area": "Schengen Area"
+},
+{
+  "_id": {
+    "$oid": "6590b87dfbec09b32c61d4b3"
+  },
+  "issuerName": "United States",
+  "members": [
+    "United States"
+  ],
+  "area": "North America"
+},
+{
+  "_id": {
+    "$oid": "6590b87dfbec09b32c61d4b4"
+  },
+  "issuerName": "Canada",
+  "members": [
+    "Canada"
+  ],
+  "area": "North America"
+},
+{
+  "_id": {
+    "$oid": "6590b87dfbec09b32c61d4b5"
+  },
+  "issuerName": "United Kingdom",
+  "members": [
+    "United Kingdom"
+  ],
+  "area": "Europe"
+},
+{
+  "_id": {
+    "$oid": "6590b87dfbec09b32c61d4b6"
+  },
+  "issuerName": "Australia",
+  "members": [
+    "Australia"
+  ],
+  "area": "Oceania"
+},
+{
+  "_id": {
+    "$oid": "6590b87dfbec09b32c61d4b7"
+  },
+  "issuerName": "China",
+  "members": [
+    "China"
+  ],
+  "area": "Asia"
+},
+{
+  "_id": {
+    "$oid": "6590b87dfbec09b32c61d4b8"
+  },
+  "issuerName": "India",
+  "members": [
+    "India"
+  ],
+  "area": "Asia"
+},
+{
+  "_id": {
+    "$oid": "6590b87dfbec09b32c61d4b9"
+  },
+  "issuerName": "Russia",
+  "members": [
+    "Russia"
+  ],
+  "area": "Eurasia"
+},
+{
+  "_id": {
+    "$oid": "6590b87dfbec09b32c61d4ba"
+  },
+  "issuerName": "Brazil",
+  "members": [
+    "Brazil"
+  ],
+  "area": "South America"
+},
+{
+  "_id": {
+    "$oid": "6590b87dfbec09b32c61d4bb"
+  },
+  "issuerName": "Japan",
+  "members": [
+    "Japan"
+  ],
+  "area": "Asia"
+},
+{
+  "_id": {
+    "$oid": "6590f4426c96375bef4d51a8"
+  },
+  "name": "European Union"
+}]
